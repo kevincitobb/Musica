@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B0EC27D292968D1001A9C3A /* brawl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9B0EC27C292968D1001A9C3A /* brawl.mp3 */; };
 		9B8DD6F32929177100DE2FB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8DD6F22929177100DE2FB3 /* AppDelegate.swift */; };
 		9B8DD6F52929177100DE2FB3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8DD6F42929177100DE2FB3 /* SceneDelegate.swift */; };
 		9B8DD6F72929177100DE2FB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8DD6F62929177100DE2FB3 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B0EC27C292968D1001A9C3A /* brawl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = brawl.mp3; sourceTree = "<group>"; };
 		9B8DD6EF2929177100DE2FB3 /* Musica.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Musica.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B8DD6F22929177100DE2FB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9B8DD6F42929177100DE2FB3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		9B8DD6F12929177100DE2FB3 /* Musica */ = {
 			isa = PBXGroup;
 			children = (
+				9B0EC27C292968D1001A9C3A /* brawl.mp3 */,
 				9B8DD6F22929177100DE2FB3 /* AppDelegate.swift */,
 				9B8DD6F42929177100DE2FB3 /* SceneDelegate.swift */,
 				9B8DD6F62929177100DE2FB3 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B0EC27D292968D1001A9C3A /* brawl.mp3 in Resources */,
 				9B8DD6FF2929177200DE2FB3 /* LaunchScreen.storyboard in Resources */,
 				9B8DD6FC2929177200DE2FB3 /* Assets.xcassets in Resources */,
 				9B8DD6FA2929177100DE2FB3 /* Main.storyboard in Resources */,
